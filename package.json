@@ -12,11 +12,25 @@
     "ejs": "^3.1.8",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.1",
+    "lab-express-cinema": "file:",
     "mongoose": "^6.1.2",
     "morgan": "^1.10.0",
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "description": "![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Puri/lab-express-cinema-ejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-Puri/lab-express-cinema-ejs/issues"
+  },
+  "homepage": "https://github.com/L-Puri/lab-express-cinema-ejs#readme"
 }
